@@ -2,3 +2,4 @@ desc.txt
 
 *.txt
 myfolder/
+!work.txt
