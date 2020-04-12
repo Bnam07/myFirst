@@ -1,6 +1,7 @@
 1234
 146
 85
+hey i love you really ^__^
 i believe in u
 you can do it
 i love you
@@ -16,3 +17,5 @@ thank you
 thank you
 
 from branch master
+
+lesson 24
